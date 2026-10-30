@@ -91,7 +91,3 @@ Clone the project from GitHub:
 
 ```bash
 git clone https://github.com/najmehjabbari2024-deln/research-assistant-ai-agent.git
-
-## AI Assistance & Acknowledgements
-
-ChatGPT (OpenAI) was used as an AI-assisted development tool throughout this project.
