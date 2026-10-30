@@ -1,0 +1,7 @@
+pymupdf
+scikit-learn
+numpy
+pandas
+streamlit
+python-dotenv
+requests
