@@ -86,7 +86,8 @@ Make sure the following tools are installed:
 - Ollama
 
 ### 1. Clone the Repository
-
+git clone https://github.com/najmehjabbari2024-deln/research-assistant-ai-agent.git
+cd research-assistant-ai-agent
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
 cd "Research Assistant AI Agent"
